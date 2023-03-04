@@ -15,7 +15,7 @@ print("ola" in bienvenida) #le estoy pidiendo que busque si el string "ola" exis
 
 del bienvenida #borra la variable bienvenida
 #del es una operación utilizada para borrar datos.
-print (bienvenida)
+print (bienvenida) 
 
 
 #operadores de pertenencia: in y not it
